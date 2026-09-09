@@ -2,3 +2,6 @@
 .RData
 .Rproj.user/
 .DS_Store
+python/.venv/
+__pycache__/
+.ipynb_checkpoints/
