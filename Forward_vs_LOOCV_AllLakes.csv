@@ -1,0 +1,21 @@
+lake_id,lake_name,model,LOOCV,Forward,difference
+AL,Allequash,PCR,0.147,0.082,-0.065
+AL,Allequash,Lasso+PCA,0.193,0.088,-0.105
+AL,Allequash,ENet+PCA,0.172,0.085,-0.087
+AL,Allequash,RF (raw),0,0.023,0.023
+BM,Big Muskellunge,PCR,0.338,0.352,0.014
+BM,Big Muskellunge,Lasso+PCA,0.338,0.355,0.017
+BM,Big Muskellunge,ENet+PCA,0.338,0.353,0.015
+BM,Big Muskellunge,RF (raw),0.239,0.282,0.043
+CR,Crystal,PCR,0.019,0.158,0.139
+CR,Crystal,Lasso+PCA,0.015,0.163,0.148
+CR,Crystal,ENet+PCA,0.017,0.161,0.144
+CR,Crystal,RF (raw),0.072,0.136,0.064
+SP,Sparkling,PCR,0.11,0.086,-0.024
+SP,Sparkling,Lasso+PCA,0.105,0.08,-0.025
+SP,Sparkling,ENet+PCA,0.107,0.084,-0.023
+SP,Sparkling,RF (raw),0.02,0.059,0.039
+TR,Trout,PCR,0.303,0.261,-0.042
+TR,Trout,Lasso+PCA,0.3,0.261,-0.039
+TR,Trout,ENet+PCA,0.301,0.261,-0.04
+TR,Trout,RF (raw),0.163,0.182,0.019

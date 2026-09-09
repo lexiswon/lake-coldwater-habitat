@@ -1,0 +1,8 @@
+model,R2_LOOCV
+RF (no PCA),0.23
+XGB (no PCA),0.2
+Lasso (no PCA),0.114
+SVR (no PCA),0.114
+ENet (no PCA),0.085
+Ridge (no PCA),0.08
+PCR (no PCA),0.04

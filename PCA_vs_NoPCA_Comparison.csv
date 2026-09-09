@@ -1,0 +1,8 @@
+model,with_PCA,without_PCA,PCA_gain
+PCR/Linear,0.338,0.04,0.298
+Lasso,0.338,0.114,0.224
+Elastic Net,0.338,0.085,0.253
+Ridge,0.337,0.08,0.257
+SVR,0.25,0.114,0.136
+RF,0.157,0.23,-0.073
+XGBoost,0.155,0.2,-0.045

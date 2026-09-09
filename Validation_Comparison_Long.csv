@@ -1,0 +1,61 @@
+lake_id,validation,model,R2
+AL,LOOCV,PCR,0.147
+AL,LOOCV,Random Forest,0
+AL,LOOCV,XGBoost,0.004
+AL,80/20,PCR,0.108
+AL,80/20,Random Forest,0.091
+AL,80/20,XGBoost,0.034
+AL,5-Fold,PCR,0.251
+AL,5-Fold,Random Forest,0.004
+AL,5-Fold,XGBoost,0.005
+AL,10-Fold,PCR,0.33
+AL,10-Fold,Random Forest,0.026
+AL,10-Fold,XGBoost,0.009
+BM,LOOCV,PCR,0.338
+BM,LOOCV,Random Forest,0.223
+BM,LOOCV,XGBoost,0.2
+BM,80/20,PCR,0.284
+BM,80/20,Random Forest,0.276
+BM,80/20,XGBoost,0.093
+BM,5-Fold,PCR,0.332
+BM,5-Fold,Random Forest,0.259
+BM,5-Fold,XGBoost,0.179
+BM,10-Fold,PCR,0.303
+BM,10-Fold,Random Forest,0.3
+BM,10-Fold,XGBoost,0.211
+CR,LOOCV,PCR,0.019
+CR,LOOCV,Random Forest,0.071
+CR,LOOCV,XGBoost,0.063
+CR,80/20,PCR,0.033
+CR,80/20,Random Forest,0.098
+CR,80/20,XGBoost,0.048
+CR,5-Fold,PCR,0.009
+CR,5-Fold,Random Forest,0.073
+CR,5-Fold,XGBoost,0.021
+CR,10-Fold,PCR,0.001
+CR,10-Fold,Random Forest,0.005
+CR,10-Fold,XGBoost,0.005
+SP,LOOCV,PCR,0.11
+SP,LOOCV,Random Forest,0.021
+SP,LOOCV,XGBoost,0.099
+SP,80/20,PCR,0.029
+SP,80/20,Random Forest,0.021
+SP,80/20,XGBoost,0.007
+SP,5-Fold,PCR,0.077
+SP,5-Fold,Random Forest,0.002
+SP,5-Fold,XGBoost,0.064
+SP,10-Fold,PCR,0.095
+SP,10-Fold,Random Forest,0.02
+SP,10-Fold,XGBoost,0.074
+TR,LOOCV,PCR,0.303
+TR,LOOCV,Random Forest,0.176
+TR,LOOCV,XGBoost,0.159
+TR,80/20,PCR,0.202
+TR,80/20,Random Forest,0.129
+TR,80/20,XGBoost,0.056
+TR,5-Fold,PCR,0.292
+TR,5-Fold,Random Forest,0.192
+TR,5-Fold,XGBoost,0.149
+TR,10-Fold,PCR,0.297
+TR,10-Fold,Random Forest,0.219
+TR,10-Fold,XGBoost,0.129

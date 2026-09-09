@@ -1,0 +1,7 @@
+model,R2_LOOCV
+PCR (baseline),0.303
+Lasso,0.114
+SVR,0.114
+Elastic Net,0.085
+Ridge,0.08
+PLS,NA

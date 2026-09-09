@@ -1,0 +1,4 @@
+"Model","R2_Accuracy","RPSS_Skill"
+"PCR (Baseline)",0.28,0.44
+"Random Forest",0.55,0.69
+"XGBoost",0.68,0.77
