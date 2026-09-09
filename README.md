@@ -1,8 +1,8 @@
 # Lake Coldwater Habitat Modeling
 
 Modeling and forecasting **coldwater fish habitat** in five North Temperate
-Lakes (NTL-LTER, Wisconsin) — Allequash, Big Muskellunge, Crystal, Sparkling,
-and Trout — from ~40 years of climate and limnology data.
+Lakes (NTL-LTER, Wisconsin) Allequash, Big Muskellunge, Crystal, Sparkling,
+and Trout from ~40 years of climate and limnology data.
 
 The core metric, **CVHT** (cumulative volumetric habitat thickness), captures
 the depth range in a lake where temperature ≤ 17°C *and* dissolved oxygen ≥
